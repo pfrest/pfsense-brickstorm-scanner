@@ -1,5 +1,8 @@
 # BRICKSTORM Indicator of Compromise Scanner
 
+> [!IMPORTANT]
+> This is a revised version of [Mandiant's BRICKSTORM scanner](https://github.com/mandiant/brickstorm-scanner/tree/main) that has been modified to run natively on pfSense (without `bash` or `xxd`). For all other use cases, it is recommended to run Mandiant's version!
+
 This repository contains a utility for detecting potential BRICKSTORM backdoor
 compromises on Linux and BSD-based appliances and systems.
 
